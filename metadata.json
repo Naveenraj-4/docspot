@@ -1,0 +1,8 @@
+{
+  "name": "DocSpot",
+  "description": "A smart, AI-assisted medical consultation and appointment platform connecting patients, doctors, and administrators.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
