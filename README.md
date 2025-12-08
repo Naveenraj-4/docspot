@@ -124,7 +124,7 @@ DocSpot features a **Role-Aware Global AI**:
 
 ## 🏆 **Credits**
 
-**Architected & Built by ALEX**
+**Architected & Built by Naveen**
 
 *   **Design System:** Custom "Elite" Glass UI
 *   **Logic:** Role-Based Access Control (RBAC) Engine
