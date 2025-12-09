@@ -19,7 +19,7 @@
 
 ## 🌟 **Project Vision**
 
-**DocSpot** isn't just a booking app; it's a complete **medical operating system**. Designed by **ALEX**, it integrates advanced AI agents, real-time secure chat, and powerful analytics into a cohesive, aesthetically stunning experience.
+**DocSpot** isn't just a booking app; it's a complete **medical operating system**. Designed by **Naveen**, it integrates advanced AI agents, real-time secure chat, and powerful analytics into a cohesive, aesthetically stunning experience.
 
 Whether you are a patient seeking help, a doctor managing a clinic, or an admin overseeing operations, DocSpot provides a **premium, app-like experience** directly in the browser.
 
