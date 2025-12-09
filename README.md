@@ -1,7 +1,7 @@
 # 🏥 **DocSpot - Intelligent Healthcare Ecosystem**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Built%20By-ALEX-emerald?style=for-the-badge&logo=appveyor" alt="Built by ALEX" />
+ 
   <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20AI-blue?style=for-the-badge" alt="MERN Stack" />
   <img src="https://img.shields.io/badge/Status-Production%20Ready-violet?style=for-the-badge" alt="Status" />
 </div>
